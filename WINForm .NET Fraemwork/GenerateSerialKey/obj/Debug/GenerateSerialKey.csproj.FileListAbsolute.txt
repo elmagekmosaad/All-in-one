@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\GenerateSerialKey\bin\Debug\GenerateSerialKey.exe.config
+C:\Users\ASUS\source\repos\GenerateSerialKey\bin\Debug\GenerateSerialKey.exe
+C:\Users\ASUS\source\repos\GenerateSerialKey\bin\Debug\GenerateSerialKey.pdb
+C:\Users\ASUS\source\repos\GenerateSerialKey\bin\Debug\SKGL.dll
+C:\Users\ASUS\source\repos\GenerateSerialKey\obj\Debug\GenerateSerialKey.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\GenerateSerialKey\obj\Debug\GenerateSerialKey.Form1.resources
+C:\Users\ASUS\source\repos\GenerateSerialKey\obj\Debug\GenerateSerialKey.Properties.Resources.resources
+C:\Users\ASUS\source\repos\GenerateSerialKey\obj\Debug\GenerateSerialKey.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\GenerateSerialKey\obj\Debug\GenerateSerialKey.csproj.CopyComplete
+C:\Users\ASUS\source\repos\GenerateSerialKey\obj\Debug\GenerateSerialKey.exe
+C:\Users\ASUS\source\repos\GenerateSerialKey\obj\Debug\GenerateSerialKey.pdb
