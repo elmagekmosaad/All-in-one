@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\TiTleRandom\bin\Debug\TiTleRandom.exe.config
+C:\Users\ASUS\source\repos\TiTleRandom\bin\Debug\TiTleRandom.exe
+C:\Users\ASUS\source\repos\TiTleRandom\bin\Debug\TiTleRandom.pdb
+C:\Users\ASUS\source\repos\TiTleRandom\obj\Debug\TiTleRandom.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\TiTleRandom\obj\Debug\TiTleRandom.Form1.resources
+C:\Users\ASUS\source\repos\TiTleRandom\obj\Debug\TiTleRandom.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TiTleRandom\obj\Debug\TiTleRandom.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TiTleRandom\obj\Debug\TiTleRandom.exe
+C:\Users\ASUS\source\repos\TiTleRandom\obj\Debug\TiTleRandom.pdb
